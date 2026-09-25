@@ -1,0 +1,189 @@
+{
+  "charts" : [
+    {
+      "alt" : "Portfolio at a glance",
+      "document" : "Portfolio Dashboard.md",
+      "id" : "d03c7571dc22d3bf51289a4e776addfe49d8239c37d9b43730edad48c9a25afd",
+      "language" : "chart",
+      "title" : "Portfolio at a glance"
+    },
+    {
+      "alt" : "Where the money sits",
+      "document" : "Portfolio Dashboard.md",
+      "id" : "09f8f1a11d6765b21fa64b87381a20404b28e48059ba68e0471be7f8ec6b9326",
+      "language" : "chart",
+      "title" : "Where the money sits"
+    },
+    {
+      "alt" : "Portfolio and benchmark, indexed to 100",
+      "document" : "Portfolio Dashboard.md",
+      "id" : "9d46f816bc0ecc94b062c2e397f112e43dcf14a0c8112e61f80741e14ec87e32",
+      "language" : "chart",
+      "title" : "Portfolio and benchmark, indexed to 100"
+    },
+    {
+      "alt" : "The focus holding, last fifteen sessions",
+      "document" : "Portfolio Dashboard.md",
+      "id" : "c8d2045ec829372dab2a6849d93932156ba30dcb484767136dda91fa82fbf3f1",
+      "language" : "chart",
+      "title" : "The focus holding, last fifteen sessions"
+    },
+    {
+      "alt" : "Cost basis to market value",
+      "document" : "Portfolio Dashboard.md",
+      "id" : "34ba81aba2f06357e7bb81a1044b4f6d257138a56773062f185ae5e5822186a6",
+      "language" : "chart",
+      "title" : "Cost basis to market value"
+    },
+    {
+      "alt" : "10-year Treasury yield, last three months",
+      "document" : "Portfolio Dashboard.md",
+      "id" : "1757554e97521f3c58c0f0fec39fd2411a8c4d024c05acf1f66f148a9dcac3b6",
+      "language" : "chart",
+      "title" : "10-year Treasury yield, last three months"
+    }
+  ],
+  "data" : [
+    {
+      "bytes" : 15642,
+      "document" : "Portfolio Dashboard.md",
+      "path" : "data/portfolio-2026-09-02.json",
+      "sha256" : "18de6b2f7a318a4bcb820231fdd2767f6006e236e8f7709debf689df6807906f"
+    },
+    {
+      "bytes" : 6940,
+      "document" : "Portfolio Dashboard.md",
+      "path" : "data/news-2026-09-02.json",
+      "sha256" : "ff88aeae10242347fa662764292ab9b6d48419fd60802be6a02c187fc266ec13"
+    },
+    {
+      "bytes" : 3235,
+      "document" : "Portfolio Dashboard.md",
+      "path" : "Holdings.md",
+      "sha256" : "0df23f1fa3d3d8f6ad1b5685c450bb03ce500bf3fd340a046ec1fb7c0c3ba10f"
+    }
+  ],
+  "date" : "2026-09-25",
+  "dateSource" : "fileModified",
+  "documents" : [
+    {
+      "isLivingDocument" : true,
+      "page" : "index.html",
+      "path" : "Portfolio Dashboard.md",
+      "sections" : [
+        {
+          "id" : "portfolio-dashboard",
+          "level" : 1,
+          "title" : "Portfolio Dashboard",
+          "words" : 159
+        },
+        {
+          "id" : "coverage-before-totals",
+          "level" : 2,
+          "title" : "Coverage before totals",
+          "words" : 90
+        },
+        {
+          "id" : "at-a-glance",
+          "level" : 2,
+          "title" : "At a glance",
+          "words" : 135
+        },
+        {
+          "id" : "holdings",
+          "level" : 2,
+          "title" : "Holdings",
+          "words" : 286
+        },
+        {
+          "id" : "allocation",
+          "level" : 2,
+          "title" : "Allocation",
+          "words" : 95
+        },
+        {
+          "id" : "current-holdings-22-session-price-comparison",
+          "level" : 2,
+          "title" : "Current holdings: 22-session price comparison",
+          "words" : 439
+        },
+        {
+          "id" : "the-focus-holding",
+          "level" : 2,
+          "title" : "The focus holding",
+          "words" : 232
+        },
+        {
+          "id" : "where-the-gain-came-from",
+          "level" : 2,
+          "title" : "Where the gain came from",
+          "words" : 119
+        },
+        {
+          "id" : "macro",
+          "level" : 2,
+          "title" : "Macro",
+          "words" : 499
+        },
+        {
+          "id" : "headlines-to-inspect",
+          "level" : 2,
+          "title" : "Headlines to inspect",
+          "words" : 752
+        },
+        {
+          "id" : "what-you-declared",
+          "level" : 2,
+          "title" : "What you declared",
+          "words" : 138
+        },
+        {
+          "id" : "captures-in-this-folder",
+          "level" : 2,
+          "title" : "Captures in this folder",
+          "words" : 76
+        },
+        {
+          "id" : "what-changes-on-a-run",
+          "level" : 2,
+          "title" : "What changes on a run",
+          "words" : 61
+        },
+        {
+          "id" : "make-it-yours",
+          "level" : 2,
+          "title" : "Make it yours",
+          "words" : 248
+        },
+        {
+          "id" : "how-this-page-is-built",
+          "level" : 2,
+          "title" : "How this page is built",
+          "words" : 236
+        },
+        {
+          "id" : "overnight-notes",
+          "level" : 2,
+          "title" : "Overnight notes",
+          "words" : 11
+        }
+      ],
+      "title" : "Portfolio Dashboard",
+      "words" : 3576
+    }
+  ],
+  "generatedAt" : "2026-09-25T23:14:57Z",
+  "generator" : "Flow 1.8-dev (1)",
+  "images" : [
+
+  ],
+  "pagesNavigation" : "sidebar",
+  "paper" : "letter",
+  "pdfNavigation" : "contents",
+  "source" : {
+    "documentCount" : 1,
+    "kind" : "livingDocument"
+  },
+  "theme" : "report",
+  "title" : "Portfolio Dashboard"
+}
