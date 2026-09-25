@@ -1,0 +1,4 @@
+{
+  "body" : "chartType: KPI Card\ntitle: Portfolio at a glance\nsubtitle: Value and cost in dollars; the month against the benchmark, %\nsource: data/portfolio-*.json, newest capture\ndata:\n  - {metric: \"Portfolio value\", value: 105761, goal: 103297}\n  - {metric: \"Day change\", value: 613}\n  - {metric: \"Gain on cost, %\", value: 2.7}\n  - {metric: \"One month, %\", value: -1.3, goal: -0.9}\nsemantic_types: {metric: Category, value: Quantity, goal: Quantity}\nencodings:\n  metric: {field: metric}\n  value: {field: value}\n  goal: {field: goal}\n",
+  "language" : "chart"
+}
