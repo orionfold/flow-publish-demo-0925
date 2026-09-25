@@ -1,0 +1,4 @@
+{
+  "body" : "chartType: Donut Chart\ntitle: Where the money sits\nsubtitle: Market value by position, cash included\nsource: data/portfolio-*.json, newest capture\ndata:\n  - {symbol: \"NVDA\", value: 13465}\n  - {symbol: \"AAPL\", value: 12998}\n  - {symbol: \"GOOGL\", value: 10114}\n  - {symbol: \"MSFT\", value: 8943}\n  - {symbol: \"AMZN\", value: 8924}\n  - {symbol: \"JPM\", value: 8906}\n  - {symbol: \"AVGO\", value: 8079}\n  - {symbol: \"BRK-B\", value: 7579}\n  - {symbol: \"TSLA\", value: 7140}\n  - {symbol: \"META\", value: 7114}\n  - {symbol: \"Cash\", value: 12500}\nsemantic_types: {symbol: Category, value: Amount}\nencodings:\n  size: {field: value}\n  color: {field: symbol, scheme: tableau10}\n",
+  "language" : "chart"
+}
