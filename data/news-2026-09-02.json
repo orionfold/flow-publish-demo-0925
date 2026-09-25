@@ -1,0 +1,217 @@
+{
+  "capturedAt": "2026-09-03T04:35:44.178Z",
+  "source": "Yahoo Finance RSS headlines",
+  "headlines": [
+    {
+      "Symbol": "AAPL",
+      "Headline": "Warren Buffett’s biggest bet has a dividend secret",
+      "Source": "thestreet.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "AAPL",
+      "Headline": "Apple's new CEO faces his first big test",
+      "Source": "thestreet.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "AAPL",
+      "Headline": "Apple May Need a Foldable iPhone to Avoid a Revenue Slowdown Next Year",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "MSFT",
+      "Headline": "Steve Ballmer banned, Clippers fined $30M over Kawhi Leonard scandal",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "MSFT",
+      "Headline": "Bank of America resets Microsoft stock price target for 2026",
+      "Source": "thestreet.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "MSFT",
+      "Headline": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies — MSFT, DELL, UBER, ASTS, AVGO In Focus",
+      "Source": "stocktwits.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "NVDA",
+      "Headline": "Does Caterpillar’s AI Robotics Push with FieldAI and NVIDIA Reshape the Bull Case for CAT?",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "NVDA",
+      "Headline": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "NVDA",
+      "Headline": "Bridgewater Cut Nvidia 18% and More Than Doubled Vistra. Is It Rotating From Chips to Power?",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "AMZN",
+      "Headline": "Better High-Growth Stock for 2026: Amazon.com vs. Uber Technologies",
+      "Source": "fool.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "AMZN",
+      "Headline": "Zoox vs. Waymo: Are Amazon and Alphabet Ready to Win the Robotaxi Race?",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "AMZN",
+      "Headline": "Stanley Druckenmiller Increased Amazon More Than 10-Fold and Opened an AMD Position. What’s the Common Bet?",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "GOOGL",
+      "Headline": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
+      "Source": "fool.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "GOOGL",
+      "Headline": "MGNI Stock Heads For Another Green Week: Analyst Says Google AdTech Ruling Opens Door To Bigger Opportunity",
+      "Source": "stocktwits.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "GOOGL",
+      "Headline": "Here's Why Eos Energy Stock Soared Today",
+      "Source": "fool.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "META",
+      "Headline": "META Stock Jumps To Best Day In Nearly A Month — Meta Platforms Unveils Most Powerful AI Model To Compete With AI Rivals",
+      "Source": "stocktwits.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "META",
+      "Headline": "Edwards Lifesciences to Present at the Deutsche Bank Healthcare Summit",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "META",
+      "Headline": "US judge rejects bid to break up Google's ad business",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "TSLA",
+      "Headline": "Tesla's Cybercab to take center stage at Austin event",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "TSLA",
+      "Headline": "Tesla uses data transparency to get what it wants",
+      "Source": "thestreet.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "TSLA",
+      "Headline": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "BRK-B",
+      "Headline": "Berkshire Is Making a Big Bet on Google. This Is Why, According to CEO Greg Abel",
+      "Source": "investopedia.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "BRK-B",
+      "Headline": "MicroStrategy Reserve Capital Beats All S&P 500 Financials But Berkshire, MSTR Still Slips",
+      "Source": "beincrypto.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "BRK-B",
+      "Headline": "What Is Berkshire Hathaway (BRK.A) Signaling About AI Under Greg Abel?",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "AVGO",
+      "Headline": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy'",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "AVGO",
+      "Headline": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "AVGO",
+      "Headline": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "JPM",
+      "Headline": "JPMorgan executive reveals what AI projects must prove to win funding",
+      "Source": "thestreet.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "JPM",
+      "Headline": "JPMorgan scales back Jane Street financing amid growing bond market rivalry - FT",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    },
+    {
+      "Symbol": "JPM",
+      "Headline": "J.P. Morgan Asset Management Announces Rebrand of Campbell Global to J.P. Morgan Natural Capital",
+      "Source": "finance.yahoo.com",
+      "Published": "2026-09-02",
+      "URL": ""
+    }
+  ],
+  "linkCoverage": "Original article URLs were not retained in this dated sample. A new feed capture preserves actual URLs."
+}
