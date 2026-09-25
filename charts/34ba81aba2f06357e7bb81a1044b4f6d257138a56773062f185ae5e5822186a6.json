@@ -1,0 +1,4 @@
+{
+  "body" : "chartType: Waterfall Chart\ntitle: Cost basis to market value\nsubtitle: Gain or loss per position, $\nsource: data/portfolio-*.json, newest capture\ndata:\n  - {step: \"Cost basis\", change: 90797}\n  - {step: \"NVDA\", change: 468}\n  - {step: \"AAPL\", change: 2294}\n  - {step: \"GOOGL\", change: -397}\n  - {step: \"MSFT\", change: 1296}\n  - {step: \"AMZN\", change: -215}\n  - {step: \"JPM\", change: 1115}\n  - {step: \"AVGO\", change: -1121}\n  - {step: \"BRK-B\", change: 486}\n  - {step: \"TSLA\", change: -433}\n  - {step: \"META\", change: -1029}\n  - {step: \"Market value\", change: 93261}\nsemantic_types: {step: Category, change: Amount}\nencodings:\n  x: {field: step}\n  y: {field: change}\n",
+  "language" : "chart"
+}
