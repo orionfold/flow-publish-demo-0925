@@ -1,0 +1,914 @@
+{
+  "capturedAt": "2026-09-03T04:35:42.207Z",
+  "source": "Yahoo Finance chart API, daily bars, last close",
+  "currency": "USD",
+  "benchmark": "^GSPC",
+  "focus": "NVDA",
+  "positions": 10,
+  "unavailable": "",
+  "summary": [
+    {
+      "metric": "Portfolio value",
+      "value": 105761,
+      "goal": 103297
+    },
+    {
+      "metric": "Day change",
+      "value": 613
+    },
+    {
+      "metric": "Gain on cost, %",
+      "value": 2.7
+    },
+    {
+      "metric": "One month, %",
+      "value": -1.3,
+      "goal": -0.9
+    }
+  ],
+  "holdings": [
+    {
+      "Symbol": "NVDA",
+      "Name": "NVIDIA Corporation",
+      "Shares": 60,
+      "Price": 224.41,
+      "Value": 13465,
+      "Day %": 3.21,
+      "Cost": 216.61,
+      "Gain %": 3.6,
+      "Gain": 468,
+      "Weight %": 14.4
+    },
+    {
+      "Symbol": "AAPL",
+      "Name": "Apple Inc.",
+      "Shares": 40,
+      "Price": 324.96,
+      "Value": 12998,
+      "Day %": -0.05,
+      "Cost": 267.61,
+      "Gain %": 21.4,
+      "Gain": 2294,
+      "Weight %": 13.9
+    },
+    {
+      "Symbol": "GOOGL",
+      "Name": "Alphabet Inc.",
+      "Shares": 30,
+      "Price": 337.12,
+      "Value": 10114,
+      "Day %": 0.63,
+      "Cost": 350.34,
+      "Gain %": -3.8,
+      "Gain": -397,
+      "Weight %": 10.8
+    },
+    {
+      "Symbol": "MSFT",
+      "Name": "Microsoft Corporation",
+      "Shares": 18,
+      "Price": 496.82,
+      "Value": 8943,
+      "Day %": -0.84,
+      "Cost": 424.82,
+      "Gain %": 16.9,
+      "Gain": 1296,
+      "Weight %": 9.6
+    },
+    {
+      "Symbol": "AMZN",
+      "Name": "Amazon.com, Inc.",
+      "Shares": 35,
+      "Price": 254.98,
+      "Value": 8924,
+      "Day %": 0.02,
+      "Cost": 261.12,
+      "Gain %": -2.4,
+      "Gain": -215,
+      "Weight %": 9.6
+    },
+    {
+      "Symbol": "JPM",
+      "Name": "JPMorgan Chase & Co.",
+      "Shares": 25,
+      "Price": 356.22,
+      "Value": 8906,
+      "Day %": 0.36,
+      "Cost": 311.63,
+      "Gain %": 14.3,
+      "Gain": 1115,
+      "Weight %": 9.5
+    },
+    {
+      "Symbol": "AVGO",
+      "Name": "Broadcom Inc.",
+      "Shares": 22,
+      "Price": 367.24,
+      "Value": 8079,
+      "Day %": -0.66,
+      "Cost": 418.2,
+      "Gain %": -12.2,
+      "Gain": -1121,
+      "Weight %": 8.7
+    },
+    {
+      "Symbol": "BRK-B",
+      "Name": "Berkshire Hathaway Inc.",
+      "Shares": 15,
+      "Price": 505.24,
+      "Value": 7579,
+      "Day %": 0.58,
+      "Cost": 472.81,
+      "Gain %": 6.9,
+      "Gain": 486,
+      "Weight %": 8.1
+    },
+    {
+      "Symbol": "TSLA",
+      "Name": "Tesla, Inc.",
+      "Shares": 20,
+      "Price": 357.01,
+      "Value": 7140,
+      "Day %": 0.26,
+      "Cost": 378.67,
+      "Gain %": -5.7,
+      "Gain": -433,
+      "Weight %": 7.7
+    },
+    {
+      "Symbol": "META",
+      "Name": "Meta Platforms, Inc.",
+      "Shares": 12,
+      "Price": 592.85,
+      "Value": 7114,
+      "Day %": 2.47,
+      "Cost": 678.62,
+      "Gain %": -12.6,
+      "Gain": -1029,
+      "Weight %": 7.6
+    }
+  ],
+  "allocation": [
+    {
+      "symbol": "NVDA",
+      "value": 13465
+    },
+    {
+      "symbol": "AAPL",
+      "value": 12998
+    },
+    {
+      "symbol": "GOOGL",
+      "value": 10114
+    },
+    {
+      "symbol": "MSFT",
+      "value": 8943
+    },
+    {
+      "symbol": "AMZN",
+      "value": 8924
+    },
+    {
+      "symbol": "JPM",
+      "value": 8906
+    },
+    {
+      "symbol": "AVGO",
+      "value": 8079
+    },
+    {
+      "symbol": "BRK-B",
+      "value": 7579
+    },
+    {
+      "symbol": "TSLA",
+      "value": 7140
+    },
+    {
+      "symbol": "META",
+      "value": 7114
+    },
+    {
+      "symbol": "Cash",
+      "value": 12500
+    }
+  ],
+  "indexed": [
+    {
+      "day": "2026-08-04",
+      "line": "Portfolio",
+      "indexed": 100
+    },
+    {
+      "day": "2026-08-04",
+      "line": "S&P 500",
+      "indexed": 100
+    },
+    {
+      "day": "2026-08-05",
+      "line": "Portfolio",
+      "indexed": 99.73
+    },
+    {
+      "day": "2026-08-05",
+      "line": "S&P 500",
+      "indexed": 99.83
+    },
+    {
+      "day": "2026-08-06",
+      "line": "Portfolio",
+      "indexed": 99.89
+    },
+    {
+      "day": "2026-08-06",
+      "line": "S&P 500",
+      "indexed": 99.66
+    },
+    {
+      "day": "2026-08-07",
+      "line": "Portfolio",
+      "indexed": 100.59
+    },
+    {
+      "day": "2026-08-07",
+      "line": "S&P 500",
+      "indexed": 100.27
+    },
+    {
+      "day": "2026-08-10",
+      "line": "Portfolio",
+      "indexed": 100.46
+    },
+    {
+      "day": "2026-08-10",
+      "line": "S&P 500",
+      "indexed": 100.21
+    },
+    {
+      "day": "2026-08-11",
+      "line": "Portfolio",
+      "indexed": 99.42
+    },
+    {
+      "day": "2026-08-11",
+      "line": "S&P 500",
+      "indexed": 99.89
+    },
+    {
+      "day": "2026-08-12",
+      "line": "Portfolio",
+      "indexed": 98.93
+    },
+    {
+      "day": "2026-08-12",
+      "line": "S&P 500",
+      "indexed": 100.15
+    },
+    {
+      "day": "2026-08-13",
+      "line": "Portfolio",
+      "indexed": 99.64
+    },
+    {
+      "day": "2026-08-13",
+      "line": "S&P 500",
+      "indexed": 100.81
+    },
+    {
+      "day": "2026-08-14",
+      "line": "Portfolio",
+      "indexed": 98.87
+    },
+    {
+      "day": "2026-08-14",
+      "line": "S&P 500",
+      "indexed": 100.64
+    },
+    {
+      "day": "2026-08-17",
+      "line": "Portfolio",
+      "indexed": 97.97
+    },
+    {
+      "day": "2026-08-17",
+      "line": "S&P 500",
+      "indexed": 100.11
+    },
+    {
+      "day": "2026-08-18",
+      "line": "Portfolio",
+      "indexed": 97.26
+    },
+    {
+      "day": "2026-08-18",
+      "line": "S&P 500",
+      "indexed": 99.42
+    },
+    {
+      "day": "2026-08-19",
+      "line": "Portfolio",
+      "indexed": 97.42
+    },
+    {
+      "day": "2026-08-19",
+      "line": "S&P 500",
+      "indexed": 99.63
+    },
+    {
+      "day": "2026-08-20",
+      "line": "Portfolio",
+      "indexed": 96.46
+    },
+    {
+      "day": "2026-08-20",
+      "line": "S&P 500",
+      "indexed": 98.77
+    },
+    {
+      "day": "2026-08-21",
+      "line": "Portfolio",
+      "indexed": 96.87
+    },
+    {
+      "day": "2026-08-21",
+      "line": "S&P 500",
+      "indexed": 99.2
+    },
+    {
+      "day": "2026-08-24",
+      "line": "Portfolio",
+      "indexed": 96.68
+    },
+    {
+      "day": "2026-08-24",
+      "line": "S&P 500",
+      "indexed": 98.92
+    },
+    {
+      "day": "2026-08-25",
+      "line": "Portfolio",
+      "indexed": 97.09
+    },
+    {
+      "day": "2026-08-25",
+      "line": "S&P 500",
+      "indexed": 99.23
+    },
+    {
+      "day": "2026-08-26",
+      "line": "Portfolio",
+      "indexed": 96.89
+    },
+    {
+      "day": "2026-08-26",
+      "line": "S&P 500",
+      "indexed": 99.21
+    },
+    {
+      "day": "2026-08-27",
+      "line": "Portfolio",
+      "indexed": 98.49
+    },
+    {
+      "day": "2026-08-27",
+      "line": "S&P 500",
+      "indexed": 99.93
+    },
+    {
+      "day": "2026-08-28",
+      "line": "Portfolio",
+      "indexed": 98.78
+    },
+    {
+      "day": "2026-08-28",
+      "line": "S&P 500",
+      "indexed": 99.68
+    },
+    {
+      "day": "2026-08-31",
+      "line": "Portfolio",
+      "indexed": 98.58
+    },
+    {
+      "day": "2026-08-31",
+      "line": "S&P 500",
+      "indexed": 99.35
+    },
+    {
+      "day": "2026-09-01",
+      "line": "Portfolio",
+      "indexed": 98.04
+    },
+    {
+      "day": "2026-09-01",
+      "line": "S&P 500",
+      "indexed": 98.64
+    },
+    {
+      "day": "2026-09-02",
+      "line": "Portfolio",
+      "indexed": 98.69
+    },
+    {
+      "day": "2026-09-02",
+      "line": "S&P 500",
+      "indexed": 99.1
+    }
+  ],
+  "candles": [
+    {
+      "day": "2026-08-13",
+      "open": 225.06,
+      "high": 227.23,
+      "low": 223.71,
+      "close": 225.3
+    },
+    {
+      "day": "2026-08-14",
+      "open": 226.77,
+      "high": 227.49,
+      "low": 224.5,
+      "close": 225.16
+    },
+    {
+      "day": "2026-08-17",
+      "open": 225.98,
+      "high": 227.92,
+      "low": 224.86,
+      "close": 225.01
+    },
+    {
+      "day": "2026-08-18",
+      "open": 220.45,
+      "high": 221.64,
+      "low": 218.69,
+      "close": 219.74
+    },
+    {
+      "day": "2026-08-19",
+      "open": 221.67,
+      "high": 222.87,
+      "low": 216.76,
+      "close": 217.56
+    },
+    {
+      "day": "2026-08-20",
+      "open": 218.36,
+      "high": 219.86,
+      "low": 215.66,
+      "close": 216.85
+    },
+    {
+      "day": "2026-08-21",
+      "open": 218.42,
+      "high": 218.74,
+      "low": 214.5,
+      "close": 214.72
+    },
+    {
+      "day": "2026-08-24",
+      "open": 215.53,
+      "high": 215.59,
+      "low": 207.25,
+      "close": 208.48
+    },
+    {
+      "day": "2026-08-25",
+      "open": 211.03,
+      "high": 214.73,
+      "low": 210.11,
+      "close": 213.05
+    },
+    {
+      "day": "2026-08-26",
+      "open": 212.64,
+      "high": 213.6,
+      "low": 209.23,
+      "close": 209.66
+    },
+    {
+      "day": "2026-08-27",
+      "open": 222.86,
+      "high": 230.47,
+      "low": 220.9,
+      "close": 227.98
+    },
+    {
+      "day": "2026-08-28",
+      "open": 227.36,
+      "high": 229.26,
+      "low": 216.81,
+      "close": 217.55
+    },
+    {
+      "day": "2026-08-31",
+      "open": 218.87,
+      "high": 221.3,
+      "low": 216.21,
+      "close": 220.78
+    },
+    {
+      "day": "2026-09-01",
+      "open": 216.75,
+      "high": 220.41,
+      "low": 215.1,
+      "close": 217.44
+    },
+    {
+      "day": "2026-09-02",
+      "open": 218.79,
+      "high": 227.95,
+      "low": 218.48,
+      "close": 224.41
+    }
+  ],
+  "macro": [
+    {
+      "Indicator": "S&P 500",
+      "Symbol": "^GSPC",
+      "Level": 7666.6,
+      "Day %": 0.46,
+      "Month %": -0.9
+    },
+    {
+      "Indicator": "Nasdaq Composite",
+      "Symbol": "^IXIC",
+      "Level": 26217.83,
+      "Day %": 0.45,
+      "Month %": -1.38
+    },
+    {
+      "Indicator": "VIX",
+      "Symbol": "^VIX",
+      "Level": 15.2,
+      "Day %": -6.98,
+      "Month %": -7.88
+    },
+    {
+      "Indicator": "10-year Treasury yield",
+      "Symbol": "^TNX",
+      "Level": 4.8,
+      "Day %": 0,
+      "Month %": 3.65
+    },
+    {
+      "Indicator": "US dollar index",
+      "Symbol": "DX-Y.NYB",
+      "Level": 99.41,
+      "Day %": -0.15,
+      "Month %": -0.28
+    },
+    {
+      "Indicator": "Gold",
+      "Symbol": "GC=F",
+      "Level": 4480.3,
+      "Day %": 2.61,
+      "Month %": 5.52
+    },
+    {
+      "Indicator": "Crude oil",
+      "Symbol": "CL=F",
+      "Level": 90.78,
+      "Day %": -0.25,
+      "Month %": 20.69
+    },
+    {
+      "Indicator": "Bitcoin",
+      "Symbol": "BTC-USD",
+      "Level": 77567.39,
+      "Day %": 0.21,
+      "Month %": 22.34
+    }
+  ],
+  "tenYear": [
+    {
+      "day": "2026-06-02",
+      "yield": 4.455
+    },
+    {
+      "day": "2026-06-03",
+      "yield": 4.491
+    },
+    {
+      "day": "2026-06-04",
+      "yield": 4.477
+    },
+    {
+      "day": "2026-06-05",
+      "yield": 4.536
+    },
+    {
+      "day": "2026-06-08",
+      "yield": 4.552
+    },
+    {
+      "day": "2026-06-09",
+      "yield": 4.528
+    },
+    {
+      "day": "2026-06-10",
+      "yield": 4.542
+    },
+    {
+      "day": "2026-06-11",
+      "yield": 4.463
+    },
+    {
+      "day": "2026-06-12",
+      "yield": 4.487
+    },
+    {
+      "day": "2026-06-15",
+      "yield": 4.469
+    },
+    {
+      "day": "2026-06-16",
+      "yield": 4.428
+    },
+    {
+      "day": "2026-06-17",
+      "yield": 4.463
+    },
+    {
+      "day": "2026-06-18",
+      "yield": 4.451
+    },
+    {
+      "day": "2026-06-22",
+      "yield": 4.509
+    },
+    {
+      "day": "2026-06-23",
+      "yield": 4.493
+    },
+    {
+      "day": "2026-06-24",
+      "yield": 4.402
+    },
+    {
+      "day": "2026-06-25",
+      "yield": 4.392
+    },
+    {
+      "day": "2026-06-26",
+      "yield": 4.372
+    },
+    {
+      "day": "2026-06-29",
+      "yield": 4.374
+    },
+    {
+      "day": "2026-06-30",
+      "yield": 4.418
+    },
+    {
+      "day": "2026-07-01",
+      "yield": 4.475
+    },
+    {
+      "day": "2026-07-02",
+      "yield": 4.485
+    },
+    {
+      "day": "2026-07-06",
+      "yield": 4.479
+    },
+    {
+      "day": "2026-07-07",
+      "yield": 4.529
+    },
+    {
+      "day": "2026-07-08",
+      "yield": 4.569
+    },
+    {
+      "day": "2026-07-09",
+      "yield": 4.539
+    },
+    {
+      "day": "2026-07-10",
+      "yield": 4.569
+    },
+    {
+      "day": "2026-07-13",
+      "yield": 4.609
+    },
+    {
+      "day": "2026-07-14",
+      "yield": 4.585
+    },
+    {
+      "day": "2026-07-15",
+      "yield": 4.545
+    },
+    {
+      "day": "2026-07-16",
+      "yield": 4.569
+    },
+    {
+      "day": "2026-07-17",
+      "yield": 4.541
+    },
+    {
+      "day": "2026-07-20",
+      "yield": 4.598
+    },
+    {
+      "day": "2026-07-21",
+      "yield": 4.628
+    },
+    {
+      "day": "2026-07-22",
+      "yield": 4.657
+    },
+    {
+      "day": "2026-07-23",
+      "yield": 4.703
+    },
+    {
+      "day": "2026-07-24",
+      "yield": 4.679
+    },
+    {
+      "day": "2026-07-27",
+      "yield": 4.641
+    },
+    {
+      "day": "2026-07-28",
+      "yield": 4.604
+    },
+    {
+      "day": "2026-07-29",
+      "yield": 4.622
+    },
+    {
+      "day": "2026-07-30",
+      "yield": 4.663
+    },
+    {
+      "day": "2026-07-31",
+      "yield": 4.745
+    },
+    {
+      "day": "2026-08-03",
+      "yield": 4.686
+    },
+    {
+      "day": "2026-08-04",
+      "yield": 4.627
+    },
+    {
+      "day": "2026-08-05",
+      "yield": 4.617
+    },
+    {
+      "day": "2026-08-06",
+      "yield": 4.67
+    },
+    {
+      "day": "2026-08-07",
+      "yield": 4.66
+    },
+    {
+      "day": "2026-08-10",
+      "yield": 4.699
+    },
+    {
+      "day": "2026-08-11",
+      "yield": 4.684
+    },
+    {
+      "day": "2026-08-12",
+      "yield": 4.682
+    },
+    {
+      "day": "2026-08-13",
+      "yield": 4.641
+    },
+    {
+      "day": "2026-08-14",
+      "yield": 4.696
+    },
+    {
+      "day": "2026-08-17",
+      "yield": 4.724
+    },
+    {
+      "day": "2026-08-18",
+      "yield": 4.706
+    },
+    {
+      "day": "2026-08-19",
+      "yield": 4.653
+    },
+    {
+      "day": "2026-08-20",
+      "yield": 4.696
+    },
+    {
+      "day": "2026-08-21",
+      "yield": 4.738
+    },
+    {
+      "day": "2026-08-24",
+      "yield": 4.704
+    },
+    {
+      "day": "2026-08-25",
+      "yield": 4.639
+    },
+    {
+      "day": "2026-08-26",
+      "yield": 4.664
+    },
+    {
+      "day": "2026-08-27",
+      "yield": 4.672
+    },
+    {
+      "day": "2026-08-28",
+      "yield": 4.72
+    },
+    {
+      "day": "2026-08-31",
+      "yield": 4.758
+    },
+    {
+      "day": "2026-09-01",
+      "yield": 4.796
+    },
+    {
+      "day": "2026-09-02",
+      "yield": 4.796
+    }
+  ],
+  "bridge": [
+    {
+      "step": "Cost basis",
+      "change": 90797
+    },
+    {
+      "step": "NVDA",
+      "change": 468
+    },
+    {
+      "step": "AAPL",
+      "change": 2294
+    },
+    {
+      "step": "GOOGL",
+      "change": -397
+    },
+    {
+      "step": "MSFT",
+      "change": 1296
+    },
+    {
+      "step": "AMZN",
+      "change": -215
+    },
+    {
+      "step": "JPM",
+      "change": 1115
+    },
+    {
+      "step": "AVGO",
+      "change": -1121
+    },
+    {
+      "step": "BRK-B",
+      "change": 486
+    },
+    {
+      "step": "TSLA",
+      "change": -433
+    },
+    {
+      "step": "META",
+      "change": -1029
+    },
+    {
+      "step": "Market value",
+      "change": 93261
+    }
+  ],
+  "coverage": [
+    {
+      "Item": "Declared holdings",
+      "Value": 10
+    },
+    {
+      "Item": "Holdings with a positive quote",
+      "Value": 10
+    },
+    {
+      "Item": "Missing quotes",
+      "Value": 0
+    },
+    {
+      "Item": "Total basis",
+      "Value": "All declared holdings priced; latest daily bars"
+    }
+  ]
+}
